@@ -1,5 +1,5 @@
 {
-  "name": "@niconj/isfriday",
+  "name": "is-friday",
   "version": "1.0.0",
   "description": "Library for checking if the day is a friday",
   "main": "index.js",
@@ -7,7 +7,6 @@
   "keywords": [
     "friday"
   ],
-  "author": "niconj",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/niconj/isFriday/issues"
